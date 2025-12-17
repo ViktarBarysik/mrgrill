@@ -67,7 +67,7 @@
     "name": "Set №5 + подарок",
     "count": 0,
     "img": "./images/sets/set-5.jpg",
-    "price": "100.00 BYN"
+    "price": "120.00 BYN"
   },
   {
     "id": "shashlyk-sheya",
@@ -116,7 +116,7 @@
     "name": "Шашлык из баранины",
     "count": 0,
     "img": "./images/bbq/baran.jpg",
-    "price": "50.00 BYN"
+    "price": "48.00 BYN"
   },
   {
     "id": "suluguni-na-uglyah",
