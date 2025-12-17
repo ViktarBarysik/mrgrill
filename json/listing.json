@@ -4,14 +4,14 @@
     "name": "Сет мясной + подарок",
     "count": 0,
     "img": "./images/sets/myasn.jpg",
-    "price": "83.00 BYN"
+    "price": "95.00 BYN"
   },
   {
     "id": "set-bolsheluch",
     "name": "Сет больше-лучше + подарок",
     "count": 0,
     "img": "./images/sets/bolsheluch.jpg",
-    "price": "162.00 BYN"
+    "price": "150.00 BYN"
   },
   {
     "id": "set-nadvoixsvin",
@@ -25,7 +25,7 @@
     "name": "Сет по-домашнему + подарок",
     "count": 0,
     "img": "./images/sets/podomash.jpg",
-    "price": "71.50 BYN"
+    "price": "69.00 BYN"
   },
   {
     "id": "set-nadvoixkur",
@@ -39,91 +39,91 @@
     "name": "Set №1 + подарок",
     "count": 0,
     "img": "./images/sets/set-1.jpg",
-    "price": "55.00 BYN"
+    "price": "60.00 BYN"
   },
   {
     "id": "set-2",
     "name": "Set №2 + подарок",
     "count": 0,
     "img": "./images/sets/set-2.jpg",
-    "price": "70.00 BYN"
+    "price": "80.00 BYN"
   },
   {
     "id": "set-3",
     "name": "Set №3 + подарок",
     "count": 0,
     "img": "./images/sets/set-3.jpg",
-    "price": "57.00 BYN"
+    "price": "65.00 BYN"
   },
   {
     "id": "set-4",
     "name": "Set №4 + подарок",
     "count": 0,
     "img": "./images/sets/set-4.jpg",
-    "price": "90.00 BYN"
+    "price": "95.00 BYN"
   },
   {
     "id": "set-5",
     "name": "Set №5 + подарок",
     "count": 0,
     "img": "./images/sets/set-5.jpg",
-    "price": "100.00 BYN"
+    "price": "120.00 BYN"
   },
   {
     "id": "shashlyk-sheya",
     "name": "Шашлык из шеи",
     "count": 0,
     "img": "./images/bbq/sheya.jpg",
-    "price": "25.00 BYN"
+    "price": "29.00 BYN"
   },
   {
     "id": "shashlyk-rebra",
     "name": "Шашлык из ребрышек",
     "count": 0,
     "img": "./images/bbq/rebra.jpg",
-    "price": "25.00 BYN"
+    "price": "29.00 BYN"
   },
   {
     "id": "shaslyk-porkbone",
     "name": "Шашлык из корейки на кости",
     "count": 0,
     "img": "./images/bbq/korey.jpg",
-    "price": "25.00 BYN"
+    "price": "29.00 BYN"
   },
   {
     "id": "shashluk-kurinnaya-grudka",
     "name": "Шашлык из куриной грудки",
     "count": 0,
     "img": "./images/bbq/kurfile.jpg",
-    "price": "17.00 BYN"
+    "price": "20.00 BYN"
   },
   {
     "id": "shashluk-kurinnye-krylia",
     "name": "Шашлык из куриных крылышек",
     "count": 0,
     "img": "./images/bbq/kril.jpg",
-    "price": "14.00 BYN"
+    "price": "18.00 BYN"
   },
   {
     "id": "shashluk-kurinnye-nozhki",
     "name": "Шашлык из куриных ножек",
     "count": 0,
     "img": "./images/bbq/nozhk.jpg",
-    "price": "12.00 BYN"
+    "price": "16.00 BYN"
   },
   {
     "id": "shashlyk-baranina",
     "name": "Шашлык из баранины",
     "count": 0,
     "img": "./images/bbq/baran.jpg",
-    "price": "45.00 BYN"
+    "price": "48.00 BYN"
   },
   {
     "id": "suluguni-na-uglyah",
     "name": "Сыр сулугуни на углях",
     "count": 0,
     "img": "./images/bbq/sir.jpg",
-    "price": "10.00 BYN"
+    "price": "11.00 BYN"
   },
   {
     "id": "semga-na-uglyah",
@@ -137,7 +137,7 @@
     "name": "Королевские креветки гриль",
     "count": 0,
     "img": "./images/bbq/krevet.jpg",
-    "price": "25.00 BYN"
+    "price": "30.00 BYN"
   },
   {
     "id": "doner-bbq-s",
@@ -186,49 +186,49 @@
     "name": "Кебаб из говядины и свинины",
     "count": 0,
     "img": "./images/kebab/govkebab.jpg",
-    "price": "11.00 BYN"
+    "price": "13.00 BYN"
   },
   {
     "id": "kebab-chiken",
     "name": "Кебаб из курицы",
     "count": 0,
     "img": "./images/kebab/kurkebab.jpg",
-    "price": "10.00 BYN"
+    "price": "12.00 BYN"
   },
   {
     "id": "ovoshnoi-salat",
     "name": "Овощной салат на углях",
     "count": 0,
     "img": "./images/vegetables/ovoshsalat.jpg",
-    "price": "16.00 BYN"
+    "price": "17.00 BYN"
   },
   {
     "id": "ovoshi-na-uglyah",
     "name": "Овощи на углях",
     "count": 0,
     "img": "./images/vegetables/ovoshnaugl.jpg",
-    "price": "15.00 BYN"
+    "price": "16.00 BYN"
   },
   {
     "id": "shampiniony-na-uglyah",
     "name": "Шампьньоны на углях",
     "count": 0,
     "img": "./images/vegetables/shampin.jpg",
-    "price": "9.00 BYN"
+    "price": "10.00 BYN"
   },
   {
     "id": "villagepotatoes",
     "name": "Картофель по-деревенски",
     "count": 0,
     "img": "./images/dishes/villagepotatoes.jpg",
-    "price": "4.00 BYN"
+    "price": "5.00 BYN"
   },
   {
     "id": "french-fries",
     "name": "Картофель фри",
     "count": 0,
     "img": "./images/dishes/french-fries.jpg",
-    "price": "4.00 BYN"
+    "price": "5.00 BYN"
   },
   {
     "id": "potatougli",
