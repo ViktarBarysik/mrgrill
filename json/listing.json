@@ -14,11 +14,32 @@
     "price": "150.00 BYN"
   },
   {
+    "id": "set-bolsheluch1",
+    "name": "Сет Ассорти с курицей на компанию + подарок",
+    "count": 0,
+    "img": "./images/sets/bolsheluch.jpg",
+    "price": "164.00 BYN"
+  },
+  {
+    "id": "set-bolsheluch2",
+    "name": "Сет Ассорти со свининой на компанию + подарок",
+    "count": 0,
+    "img": "./images/sets/bolsheluch.jpg",
+    "price": "225.00 BYN"
+  },
+  {
+    "id": "set-bolsheluch3",
+    "name": "Сет Все включено на большую компанию + подарок",
+    "count": 0,
+    "img": "./images/sets/bolsheluch.jpg",
+    "price": "350.00 BYN"
+  },
+  {
     "id": "set-nadvoixsvin",
     "name": "Сет на двоих со свининой + подарок",
     "count": 0,
     "img": "./images/sets/nadvoixsvin.jpg",
-    "price": "46.00 BYN"
+    "price": "90.00 BYN"
   },
   {
     "id": "set-podomash",
@@ -32,7 +53,7 @@
     "name": "Сет на двоих с курицей + подарок",
     "count": 0,
     "img": "./images/sets/nadvoixkur.jpg",
-    "price": "52.00 BYN"
+    "price": "85.00 BYN"
   },
   {
     "id": "set-1",
