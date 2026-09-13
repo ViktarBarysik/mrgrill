@@ -18,21 +18,21 @@
     "name": "Сет Ассорти с курицей на компанию + подарок",
     "count": 0,
     "img": "./images/sets/bolsheluch.jpg",
-    "price": "164.00 BYN"
+    "price": "168.00 BYN"
   },
   {
     "id": "set-bolsheluch2",
     "name": "Сет Ассорти со свининой на компанию + подарок",
     "count": 0,
     "img": "./images/sets/bolsheluch.jpg",
-    "price": "225.00 BYN"
+    "price": "235.00 BYN"
   },
   {
     "id": "set-bolsheluch3",
     "name": "Сет Все включено на большую компанию + подарок",
     "count": 0,
     "img": "./images/sets/bolsheluch.jpg",
-    "price": "350.00 BYN"
+    "price": "370.00 BYN"
   },
   {
     "id": "set-nadvoixsvin",
@@ -60,35 +60,35 @@
     "name": "Set №1 + подарок",
     "count": 0,
     "img": "./images/sets/set-1.jpg",
-    "price": "60.00 BYN"
+    "price": "65.00 BYN"
   },
   {
     "id": "set-2",
     "name": "Set №2 + подарок",
     "count": 0,
     "img": "./images/sets/set-2.jpg",
-    "price": "80.00 BYN"
+    "price": "82.00 BYN"
   },
   {
     "id": "set-3",
     "name": "Set №3 + подарок",
     "count": 0,
     "img": "./images/sets/set-3.jpg",
-    "price": "65.00 BYN"
+    "price": "70.00 BYN"
   },
   {
     "id": "set-4",
     "name": "Set №4 + подарок",
     "count": 0,
     "img": "./images/sets/set-4.jpg",
-    "price": "95.00 BYN"
+    "price": "99.00 BYN"
   },
   {
     "id": "set-5",
     "name": "Set №5 + подарок",
     "count": 0,
     "img": "./images/sets/set-5.jpg",
-    "price": "120.00 BYN"
+    "price": "125.00 BYN"
   },
   {
     "id": "shashlyk-sheya",
@@ -298,28 +298,28 @@
     "name": "Bonaqua 0.5L",
     "count": 0,
     "img": "./images/drinks/bonaqua.jpg",
-    "price": "1.43 BYN"
+    "price": "2.50 BYN"
   },
   {
     "id": "burn",
     "name": "Burn 0.25L",
     "count": 0,
     "img": "./images/drinks/burn.jpg",
-    "price": "3.50 BYN"
+    "price": "5.00 BYN"
   },
   {
     "id": "fanta",
     "name": "Fanta 0.5L",
     "count": 0,
     "img": "./images/drinks/fanta.jpg",
-    "price": "1.99 BYN"
+    "price": "3.00 BYN"
   },
   {
     "id": "sprite",
     "name": "Sprite 0.5L",
     "count": 0,
     "img": "./images/drinks/sprite.jpg",
-    "price": "1.99 BYN"
+    "price": "3.00 BYN"
   },
   {
     "id": "tanayran",
@@ -340,7 +340,7 @@
     "name": "Сок Rich 0.2L",
     "count": 0,
     "img": "./images/drinks/rich.jpg",
-    "price": "1.74 BYN"
+    "price": "4.00 BYN"
   },
   {
     "id": "burgerfries",
