@@ -109,14 +109,14 @@
     "name": "Шашлык из корейки на кости",
     "count": 0,
     "img": "./images/bbq/korey.jpg",
-    "price": "29.00 BYN"
+    "price": "31.00 BYN"
   },
   {
     "id": "shashluk-kurinnaya-grudka",
     "name": "Шашлык из куриной грудки",
     "count": 0,
     "img": "./images/bbq/kurfile.jpg",
-    "price": "20.00 BYN"
+    "price": "22.00 BYN"
   },
   {
     "id": "shashluk-kurinnye-krylia",
@@ -130,28 +130,28 @@
     "name": "Шашлык из куриных ножек",
     "count": 0,
     "img": "./images/bbq/nozhk.jpg",
-    "price": "16.00 BYN"
+    "price": "17.00 BYN"
   },
   {
     "id": "shashlyk-baranina",
     "name": "Шашлык из баранины",
     "count": 0,
     "img": "./images/bbq/baran.jpg",
-    "price": "48.00 BYN"
+    "price": "52.00 BYN"
   },
   {
     "id": "suluguni-na-uglyah",
     "name": "Сыр сулугуни на углях",
     "count": 0,
     "img": "./images/bbq/sir.jpg",
-    "price": "11.00 BYN"
+    "price": "12.00 BYN"
   },
   {
     "id": "semga-na-uglyah",
     "name": "Шашлык из филе семги",
     "count": 0,
     "img": "./images/bbq/semga.jpg",
-    "price": "30.00 BYN"
+    "price": "35.00 BYN"
   },
   {
     "id": "shrimp",
@@ -221,28 +221,28 @@
     "name": "Овощной салат на углях",
     "count": 0,
     "img": "./images/vegetables/ovoshsalat.jpg",
-    "price": "17.00 BYN"
+    "price": "18.00 BYN"
   },
   {
     "id": "ovoshi-na-uglyah",
     "name": "Овощи на углях",
     "count": 0,
     "img": "./images/vegetables/ovoshnaugl.jpg",
-    "price": "16.00 BYN"
+    "price": "17.00 BYN"
   },
   {
     "id": "shampiniony-na-uglyah",
     "name": "Шампьньоны на углях",
     "count": 0,
     "img": "./images/vegetables/shampin.jpg",
-    "price": "10.00 BYN"
+    "price": "12.00 BYN"
   },
   {
     "id": "villagepotatoes",
     "name": "Картофель по-деревенски",
     "count": 0,
     "img": "./images/dishes/villagepotatoes.jpg",
-    "price": "5.00 BYN"
+    "price": "6.00 BYN"
   },
   {
     "id": "french-fries",
