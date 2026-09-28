@@ -161,60 +161,60 @@
     "price": "30.00 BYN"
   },
   {
-    "id": "doner-bbq-s",
-    "name": "Шаурма на углях маленькая",
-    "count": 0,
-    "img": "./images/doner/shaurma.jpg",
-    "price": "7.00 BYN"
-  },
-  {
-    "id": "doner-bbq-l",
-    "name": "Шаурма на углях большая",
+    "id": "doner-chicken-m",
+    "name": "Шаурма Куриная",
     "count": 0,
     "img": "./images/doner/shaurma.jpg",
     "price": "11.00 BYN"
   },
   {
-    "id": "doner-s",
-    "name": "Шаурма маленькая",
+    "id": "doner-chicken-l",
+    "name": "Шаурма Куриная",
     "count": 0,
     "img": "./images/doner/shaurma.jpg",
-    "price": "7.00 BYN"
+    "price": "13.00 BYN"
   },
   {
-    "id": "doner-m",
-    "name": "Шаурма средняя",
+    "id": "doner-chicken-xl",
+    "name": "Шаурма Куриная",
     "count": 0,
     "img": "./images/doner/shaurma.jpg",
-    "price": "8.00 BYN"
+    "price": "16.00 BYN"
   },
   {
-    "id": "doner-l",
-    "name": "Шаурма большая",
-    "count": 0,
-    "img": "./images/doner/shaurma.jpg",
-    "price": "11.00 BYN"
-  },
-  {
-    "id": "doner-xl",
-    "name": "Шаурма королевская",
+    "id": "doner-pork-m",
+    "name": "Шаурма Свинина",
     "count": 0,
     "img": "./images/doner/shaurma.jpg",
     "price": "12.00 BYN"
+  },
+  {
+    "id": "doner-pork-l",
+    "name": "Шаурма Свинина",
+    "count": 0,
+    "img": "./images/doner/shaurma.jpg",
+    "price": "15.00 BYN"
+  },
+  {
+    "id": "doner-pork-xl",
+    "name": "Шаурма Свинина",
+    "count": 0,
+    "img": "./images/doner/shaurma.jpg",
+    "price": "17.00 BYN"
   },
   {
     "id": "kebab-porkbeef",
     "name": "Кебаб из говядины и свинины",
     "count": 0,
     "img": "./images/kebab/govkebab.jpg",
-    "price": "13.00 BYN"
+    "price": "15.00 BYN"
   },
   {
     "id": "kebab-chiken",
     "name": "Кебаб из курицы",
     "count": 0,
     "img": "./images/kebab/kurkebab.jpg",
-    "price": "12.00 BYN"
+    "price": "14.00 BYN"
   },
   {
     "id": "ovoshnoi-salat",
